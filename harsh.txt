@@ -1,2 +1,4 @@
 Created by HArsh Raj.
+Finally cracked the logic behind clone, push & pull commands of git.
+
 
